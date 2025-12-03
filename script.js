@@ -64,7 +64,7 @@ greetBtn.addEventListener("click", function () {
     if (nama) {
         greetingText.innerText = `Halo, ${nama}! Selamat datang di portofolio saya 😊`;
     } else {
-        greetingText.innerText = "Halo! Senang Anda berkunjung 😊";
+        greetingText.innerText = "Halo! 😊";
     }
 });
 
